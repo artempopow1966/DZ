@@ -1,4 +1,3 @@
-# Pomidoro Grand Prix
 
 ### Задание 1: CI/CD с Jenkins и Docker
 
